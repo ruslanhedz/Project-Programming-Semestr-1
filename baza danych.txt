@@ -1,0 +1,120 @@
+Partner czarny 0.5 mm zloto
+Partner
+M
+naboje i tloczek
+czarny
+50
+50
+2500
+25
+6
+2023
+500
+Serinka rozowa 0.3 mm
+Serinka
+M
+naboje i tloczek
+rozowy
+30
+500
+200.9
+25
+7
+2023
+5000
+Karnir zielony 0.32 mm
+Karnir
+M
+naboje i tloczek
+zielony
+35
+60
+300.35
+0
+0
+0
+0
+Harna fioletowy 0.4 mm
+Harna
+M
+naboje i tloczek
+fioletowy
+40
+90
+250.25
+29
+9
+2026
+1000
+Tourniken niebieski 0.35 mm
+Tourniken
+B
+naboje i tloczek
+niebieski
+35
+0
+255.9
+30
+6
+2024
+680
+Serinka czarny 0.3 mm
+Serinka
+M
+naboje i tloczek
+czarny
+30
+50
+250
+30
+12
+2028
+12
+Kartana czarny 0.4 mm
+Kartana
+B
+naboje i tloczek
+czarny
+35
+560
+4500.99
+25
+7
+2023
+650
+Garnir zielony 0.4 mm
+Garnir
+M
+naboje i tloczek
+zielony
+35
+600
+2500
+26
+12
+2026
+6000
+Murkinka niebieski
+Murkinka
+M
+naboje i tloczek
+niebieski
+35
+0
+3500.25
+30
+6
+2023
+1000
+Serinka czarnu zloto 0.5 mm
+Serinka
+M
+naboje i tloczek
+czarny
+35
+0
+3500
+29
+2
+2024
+5000
